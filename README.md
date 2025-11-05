@@ -126,8 +126,3 @@ pytest -q
 4. Add observability: Prometheus + Grafana, and structured logs.
 5. Add database migrations and persistent storage for metadata (Postgres + SQLAlchemy + Alembic).
 
-## Contact / Contributions
-
-Contributions welcome. Please open issues or PRs describing the change. For questions about the scaffold or architecture, refer to the design notes in `instructions.md` included in the repository.
-# RAG-System
-RAG
